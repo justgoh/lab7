@@ -18,5 +18,6 @@ public class HelloApplication extends Application {
 
         System.out.println("Hello");
         System.out.println("Hello Demo program");
+        System.out.println("Added new feature");
     }
 }
